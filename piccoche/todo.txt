@@ -6,7 +6,7 @@ Colours
 Size
 Positions
 Number
-Streamline code into DOM form
+Streamline code into DOM format
 Score
 Play again
 
@@ -15,8 +15,6 @@ Play again
 Flashers
 Multi-size
 Movers
-Bonuses (double points, static)
-Anti-bonuses (move, faster, half points)
-Dynamic boxes
-Bomb boxes (bad)
-Multi-remove (good)
+Bonuses (double points, static, cascade)
+Anti-bonuses (move, faster, half points, bombs)
+
