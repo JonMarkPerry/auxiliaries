@@ -15,6 +15,6 @@ Play again
 Flashers
 Multi-size
 Movers
-Bonuses (double points, static, cascade)
+Bonuses (double points, static, chains)
 Anti-bonuses (move, faster, half points, bombs)
 
