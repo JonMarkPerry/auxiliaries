@@ -1,4 +1,4 @@
-To do
+*To do*
 
 Add timer
 Add 'missed click counter'
@@ -10,7 +10,8 @@ Streamline code into DOM form
 Score
 Play again
 
-Optional
+*Options*
+
 Flashers
 Multi-size
 Movers
